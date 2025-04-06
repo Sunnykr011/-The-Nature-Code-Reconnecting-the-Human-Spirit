@@ -1,4 +1,4 @@
-# Chapter 11: The Myth of Self-Improvement
+# Chapter 10: The Myth of Self-Improvement
 
 > **Key Insight**: True growth doesn’t come from trying to fix yourself — it comes from remembering that you were never broken.
 

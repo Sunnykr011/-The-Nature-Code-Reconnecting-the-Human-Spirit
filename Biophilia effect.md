@@ -1,5 +1,3 @@
----
-
 ## **Biophilia Effect: Kya Hai Yeh Magic?** ✨🌿
 
 > **Summary:**  
@@ -33,9 +31,4 @@ Sirf 10-15 minute ka nature exposure bhi:
 - Raat ko sky dekhte hue 3 slow breaths lo
 
 ### **5. Ek Reflective Prompt:**  
-> Aaj ke din nature ne tumhe kya feel karaya jo screen kabhi nahi kar sakti?
-
----
-
-Yeh ready-to-paste hai repo ke markdown file ke liye (`02_biophilia_effect.md`).  
-Next chapter ke liye bhi aise hi bana dunga—just bata dena.
+> Aaj ke din nature ne tumhe kya feel karaya jo screen kabhi nahi kar sakti? 
